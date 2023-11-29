@@ -1,4 +1,4 @@
-                                                        -------------------Text-based RPG-------------------
+    -------------------Text-based RPG-------------------
 To run the program, go to "TextBasedRPG\x64\Debug" and run the "TextBasedRPG.exe" file or open the "TextBasedRPG.sln" file in "TextBasedRPG" folder and run the program. 
 
 Prerequisites:
@@ -6,7 +6,7 @@ Prerequisites:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                              
-                                                             -------------------How To Play-------------------
+    -------------------How To Play-------------------
 When not in battle
 
 1. Press 'W', 'S', 'A', or 'D' to move and trigger a description of the place that the player might be seeing.
@@ -28,7 +28,7 @@ So, give your inputs only when the games asks you to do so. This is to avoid uni
 
 Remember to press 'Enter' after every input. Your move will not be made until the 'Enter' key is pressed.
 
-                                                        -------------------Additional Information-------------------
+    -------------------Additional Information-------------------
 
 The demo images are placed in the folder "Images".
 
