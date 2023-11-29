@@ -117,9 +117,10 @@ void Game::Instructions()
 
 void Game::Battle(Player* pPlayer, Enemy* pEnemy)
 {
-	DisplayHealths(pPlayer, pEnemy);
+	
 	while(pEnemy->GetHealth() != 0 && pPlayer->GetHealth() != 0 && !(pPlayer->IsForceQuit()))
 	{
+		DisplayHealths(pPlayer, pEnemy);
 		// player's move
 		char move;
 		std::cout << "\nControls: \nE - To attack\nH - To Heal\n\nYou press 'q' to quit at any time\n";
