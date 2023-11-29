@@ -1,0 +1,14 @@
+﻿  Enemy.cpp
+  Game.cpp
+  Inventory.cpp
+  Item.cpp
+  Player.cpp
+D:\Chanukya\Game Dev Stuff\Projects\TextBasedRPG\Player.cpp(203,91): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+  PotionPouch.cpp
+  main.cpp
+  Generating Code...
+  TextBasedRPG.vcxproj -> D:\Chanukya\Game Dev Stuff\Projects\TextBasedRPG\x64\Debug\TextBasedRPG.exe
